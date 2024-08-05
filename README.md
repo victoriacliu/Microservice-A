@@ -1,4 +1,6 @@
-Clear instructions for how to programmatically REQUEST data from the microservice you implemented. Include an example call.
+Please note- the times when the program calls for user input can also be exchanged out for program making a request.
+
+Clear instructions for how to programmatically REQUEST data from the microservice you implemented. 
 
 For the web-based search version: 
 The program will request data from the user as an input in the ui.py file. Then, it will wait for the lyricservice.py file to do work and then again request the data through lyricservice.txt to display in a button. 
