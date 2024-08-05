@@ -1,9 +1,9 @@
 **Clear instructions for how to programmatically REQUEST data from the microservice you implemented. **
 
-**For the web-based search version:**
+**For the web-based search version (lyricsweb folder):**
 The program will request data from the user as an input in the ui.py file. Then, it will wait for the lyricservice.py file to do work and then again request the data through lyricservice.txt to display in a button.
 
-**For the local file version:**
+**For the local file version (lyricsupload folder):**
 The program will request data from the user as an input in the ui.py file. Then it will request data from the writelyric.txt file to print the lyrics
 
 **Clear instructions for how to programmatically RECEIVE data from the microservice you implemented.**
