@@ -21,6 +21,6 @@ For manual .txt file search (microservice will look through the lyricdata file t
 ![alt text](https://github.com/victoriacliu/Microsesrvice-A/blob/main/uml/filemanual%20UML.jpeg?raw=true)
 
 For web-based song title search (microservice will look at song title and search on the web)
-![alt text](https://github.com/victoriacliu/Microsesrvice-A/blob/main/uml/filemanual%20UML.jpeg?raw=true)
+![alt text](https://github.com/victoriacliu/Microsesrvice-A/blob/main/uml/web-based%20UML.jpeg?raw=true)
 
 
